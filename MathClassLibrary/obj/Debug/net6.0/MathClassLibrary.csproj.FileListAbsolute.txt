@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\bin\Debug\net6.0\MathClassLibrary.deps.json
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\bin\Debug\net6.0\MathClassLibrary.dll
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\bin\Debug\net6.0\MathClassLibrary.pdb
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\MathClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\MathClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\MathClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\MathClassLibrary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\MathClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\MathClassLibrary.dll
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\refint\MathClassLibrary.dll
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\MathClassLibrary.pdb
+C:\Users\Admin\source\repos\dotnet-programming\MathClassLibrary\obj\Debug\net6.0\ref\MathClassLibrary.dll

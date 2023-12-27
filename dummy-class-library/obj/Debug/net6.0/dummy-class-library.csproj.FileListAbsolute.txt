@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\dotnet-programming\dummy-class-library\obj\Debug\net6.0\dummy-class-library.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\dummy-class-library\obj\Debug\net6.0\dummy-class-library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\dotnet-programming\dummy-class-library\obj\Debug\net6.0\dummy-class-library.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\dummy-class-library\obj\Debug\net6.0\dummy-class-library.AssemblyInfo.cs
+C:\Users\Admin\source\repos\dotnet-programming\dummy-class-library\obj\Debug\net6.0\dummy-class-library.csproj.CoreCompileInputs.cache

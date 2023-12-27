@@ -1,0 +1,117 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+
+    <script src="~/Scripts/jquery-3.6.4.min.js"></script>
+
+    <script>
+
+        jQuery(document).ready(function () {
+            
+            jQuery("#btn1").click(function () {
+                var divObj = jQuery("#elementlist");
+                var tableObj = jQuery("#emplist")
+                tableObj.append("<tr><th> Id </th><th> Name </th><th> Age </th><th> City </th></tr > ")
+                var apiurl = `https://localhost:44306/api/Pratiti`;
+                jQuery.ajax({
+                    url: apiurl,
+                    method: 'GET',
+                    success: function (urldata) {
+                        var arr = JSON.parse(JSON.stringify(urldata))
+                        console.log(arr)
+                        for (var i = 0; i < arr.length; i++){
+                            var ele = `<tr>
+                                            <td>${arr[i].EmpId}</td>  
+                                            <td>${arr[i].EmpName}</td>  
+                                            <td>${arr[i].EmpAge}</td>  
+                                            <td>${arr[i].EmpCity}</td>  
+                                        </tr>`;
+                            tableObj.append(ele)
+                        }
+                        // divObj.text(JSON.stringify(urldata));
+                    }
+                })
+            });
+
+            $("#btn2").click(function () {
+                console.log("under btn2")
+                var empObject = {
+                    'EmpId': Number($("#EmpId").val()),
+                    'EmpName': $("#EmpName").val(),
+                    'EmpAge': Number($("#EmpAge").val()),
+                    'EmpCity': $("#EmpId").val()
+                }
+
+                var arr = []
+                arr.push(empObject);
+                arr.push(empObject);
+                arr.push(empObject);
+
+                var apiurl = `https://localhost:44306/api/Pratiti`;
+                $.ajax({
+                    method: 'POST',
+                    url: apiurl,
+                    data: arr,
+                    success: (ajaxElement) => {
+                        console.log(ajaxElement);
+                    }
+                });
+
+
+            });
+        });
+
+    </script>
+
+</head>
+<body>
+    <div>
+        <h1 id="sitemainheading">
+            Web API - Creation and Consumption
+        </h1>
+        <br />
+        <div id="elementlist">
+            <button id="btn1" > Show Details of Employees </button>
+            <table border="1" id="emplist" style="margin-top : 1rem">
+                
+            </table>
+        </div>
+        <br />
+        <hr />
+        <div id="elementinput">
+            <table>
+                <tr>
+                    <th>Enter Emp Id</th>
+                    <td> <input type="text" id="EmpId" /> </td>
+                </tr>
+                <tr>
+                    <th>Enter Emp Name</th>
+                    <td> <input type="text" id="EmpName" /> </td>
+                </tr>
+                <tr>
+                    <th>Enter Emp Age</th>
+                    <td> <input type="text" id="EmpAge" /> </td>
+                </tr>
+                <tr>
+                    <th>Enter Emp City</th>
+                    <td> <input type="text" id="EmpCity" /> </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <button id="btn2" name="btn2" >Save Data</button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

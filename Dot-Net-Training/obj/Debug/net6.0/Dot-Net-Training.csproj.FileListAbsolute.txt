@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\bin\Debug\net6.0\Dot-Net-Training.exe
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\bin\Debug\net6.0\Dot-Net-Training.deps.json
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\bin\Debug\net6.0\Dot-Net-Training.runtimeconfig.json
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\bin\Debug\net6.0\Dot-Net-Training.dll
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\bin\Debug\net6.0\Dot-Net-Training.pdb
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\Dot-Net-Training.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\Dot-Net-Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\Dot-Net-Training.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\Dot-Net-Training.AssemblyInfo.cs
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\Dot-Net-Training.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\Dot-Net-Training.dll
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\refint\Dot-Net-Training.dll
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\Dot-Net-Training.pdb
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\Dot-Net-Training.genruntimeconfig.cache
+C:\Users\Admin\source\repos\dotnet-programming\Dot-Net-Training\obj\Debug\net6.0\ref\Dot-Net-Training.dll

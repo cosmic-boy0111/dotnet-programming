@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\dotnet-programming\serialization-demos\obj\Debug\serialization-demos.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\serialization-demos\obj\Debug\serialization-demos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\dotnet-programming\serialization-demos\obj\Debug\serialization-demos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\serialization-demos\bin\Debug\serialization-demos.exe.config
+C:\Users\Admin\source\repos\dotnet-programming\serialization-demos\bin\Debug\serialization-demos.exe
+C:\Users\Admin\source\repos\dotnet-programming\serialization-demos\bin\Debug\serialization-demos.pdb
+C:\Users\Admin\source\repos\dotnet-programming\serialization-demos\obj\Debug\serialization-demos.exe
+C:\Users\Admin\source\repos\dotnet-programming\serialization-demos\obj\Debug\serialization-demos.pdb

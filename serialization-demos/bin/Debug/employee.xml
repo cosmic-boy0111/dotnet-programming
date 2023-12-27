@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Karan</Name>
+  <Age>26</Age>
+  <Married>true</Married>
+  <IsGraduate>true</IsGraduate>
+  <Designation>Developer</Designation>
+  <CTC>400000</CTC>
+</Employee>

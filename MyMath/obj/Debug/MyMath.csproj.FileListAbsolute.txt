@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\dotnet-programming\MyMath\bin\Debug\MyMath.dll
+C:\Users\Admin\source\repos\dotnet-programming\MyMath\bin\Debug\MyMath.pdb
+C:\Users\Admin\source\repos\dotnet-programming\MyMath\obj\Debug\MyMath.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\MyMath\obj\Debug\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\MyMath\obj\Debug\MyMath.dll
+C:\Users\Admin\source\repos\dotnet-programming\MyMath\obj\Debug\MyMath.pdb

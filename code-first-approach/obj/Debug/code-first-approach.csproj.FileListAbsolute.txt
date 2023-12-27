@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\bin\Debug\code-first-approach.exe.config
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\bin\Debug\code-first-approach.exe
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\bin\Debug\code-first-approach.pdb
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\obj\Debug\code-first-approach.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\obj\Debug\code-first-approach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\obj\Debug\code-first-approach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\obj\Debug\code-first-approach.csproj.CopyComplete
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\obj\Debug\code-first-approach.exe
+C:\Users\Admin\source\repos\dotnet-programming\code-first-approach\obj\Debug\code-first-approach.pdb

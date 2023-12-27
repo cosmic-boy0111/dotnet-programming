@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script>
+        function DisplayContent() {
+            var number = document.getElementById("number").value;
+            console.log(number)
+            var headingElement = document.getElementById("heading1");
+            var apiUrl = `https://localhost:44306/api/Pratiti/${parseInt(number)}`;
+            var httpObject = new XMLHttpRequest();
+            httpObject.open("GET", apiUrl);
+            httpObject.send();
+            httpObject.onreadystatechange = function (myEvent) {
+                if (httpObject.readyState === 4 && httpObject.status === 200) {
+                    headingElement.innerText = "Name at index "+ number + " is : " + httpObject.responseText;
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <div> 
+        <h1 id="heading1" >
+
+        </h1>
+        <input type="text" placeholder="Enter a number" id="number"/>
+        <br />
+        <button onclick="DisplayContent()" >Display Content for Heading</button>
+    </div>
+</body>
+</html>

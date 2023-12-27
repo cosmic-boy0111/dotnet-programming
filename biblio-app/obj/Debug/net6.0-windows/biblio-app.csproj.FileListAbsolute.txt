@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\dotnet-programming\biblio-app\obj\Debug\net6.0-windows\biblio-app.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\biblio-app\obj\Debug\net6.0-windows\biblio-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\dotnet-programming\biblio-app\obj\Debug\net6.0-windows\biblio-app.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\biblio-app\obj\Debug\net6.0-windows\biblio-app.AssemblyInfo.cs
+C:\Users\Admin\source\repos\dotnet-programming\biblio-app\obj\Debug\net6.0-windows\biblio-app.csproj.CoreCompileInputs.cache

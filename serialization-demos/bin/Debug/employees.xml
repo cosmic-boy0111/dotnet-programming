@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>Ratan</Name>
+    <Age>26</Age>
+    <Married>true</Married>
+    <IsGraduate>true</IsGraduate>
+    <Designation>Manager</Designation>
+    <CTC>3000000</CTC>
+  </Employee>
+  <Employee>
+    <Name>Rahul</Name>
+    <Age>27</Age>
+    <Married>true</Married>
+    <IsGraduate>false</IsGraduate>
+    <Designation>Team Lead</Designation>
+    <CTC>1800000</CTC>
+  </Employee>
+  <Employee>
+    <Name>Rohit</Name>
+    <Age>22</Age>
+    <Married>false</Married>
+    <IsGraduate>true</IsGraduate>
+    <Designation>Tester</Designation>
+    <CTC>1500000</CTC>
+  </Employee>
+</ArrayOfEmployee>

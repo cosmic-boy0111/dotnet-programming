@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\bin\Debug\databse-first-approach-create-table.exe.config
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\bin\Debug\databse-first-approach-create-table.exe
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\bin\Debug\databse-first-approach-create-table.pdb
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\obj\Debug\model-first-approach-create-table.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\obj\Debug\model-first-approach-create-table.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\obj\Debug\model-first-approach-create-table.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\obj\Debug\model-first-approach-create-table.csproj.CopyComplete
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\obj\Debug\databse-first-approach-create-table.exe
+C:\Users\Admin\source\repos\dotnet-programming\databse-first-approach-create-table\obj\Debug\databse-first-approach-create-table.pdb

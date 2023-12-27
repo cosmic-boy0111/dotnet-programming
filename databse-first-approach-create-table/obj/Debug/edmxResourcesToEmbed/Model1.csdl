@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PratitiTasks" EntityType="Model1.PratitiTask" />
+    <EntitySet Name="Users" EntityType="Model1.Users" />
+  </EntityContainer>
+  <EntityType Name="PratitiTask">
+    <Key>
+      <PropertyRef Name="PratitiTaskId" />
+    </Key>
+    <Property Name="PratitiTaskId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PratitiTaskHeading" Type="String" Nullable="false" />
+    <Property Name="PratitiTaskDescription" Type="String" Nullable="false" />
+    <Property Name="PratitiTaskAssignedBy" Type="String" Nullable="false" />
+    <Property Name="PratitiTaskAssignedTo" Type="String" Nullable="false" />
+    <Property Name="PratitiTaskAssignedDate" Type="DateTime" Nullable="false" />
+    <Property Name="PratitiTaskDays" Type="Int32" Nullable="false" />
+    <Property Name="PratitiTaskDeadLineDate" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Account_Number" Type="Int64" Nullable="false" />
+    <Property Name="User_Name" Type="String" Nullable="false" />
+    <Property Name="Password" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

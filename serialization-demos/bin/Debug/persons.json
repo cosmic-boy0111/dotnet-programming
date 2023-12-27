@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Ratan",
+    "Age": 26,
+    "Married": true,
+    "IsGraduate": true
+  },
+  {
+    "Name": "Rahul",
+    "Age": 27,
+    "Married": true,
+    "IsGraduate": false
+  },
+  {
+    "Name": "Rohit",
+    "Age": 22,
+    "Married": false,
+    "IsGraduate": true
+  }
+]

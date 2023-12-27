@@ -1,0 +1,107 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>csharp_programming</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Day 01\**" />
+    <Compile Remove="Day 02\**" />
+    <Compile Remove="Day 03\**" />
+    <Compile Remove="Day 04\**" />
+    <Compile Remove="Day 05\**" />
+    <Compile Remove="Day 06\**" />
+    <Compile Remove="Day 07\**" />
+    <Compile Remove="Day 08\**" />
+    <Compile Remove="Day 09\**" />
+    <Compile Remove="Day 10\**" />
+    <EmbeddedResource Remove="Day 01\**" />
+    <EmbeddedResource Remove="Day 02\**" />
+    <EmbeddedResource Remove="Day 03\**" />
+    <EmbeddedResource Remove="Day 04\**" />
+    <EmbeddedResource Remove="Day 05\**" />
+    <EmbeddedResource Remove="Day 06\**" />
+    <EmbeddedResource Remove="Day 07\**" />
+    <EmbeddedResource Remove="Day 08\**" />
+    <EmbeddedResource Remove="Day 09\**" />
+    <EmbeddedResource Remove="Day 10\**" />
+    <None Remove="Day 01\**" />
+    <None Remove="Day 02\**" />
+    <None Remove="Day 03\**" />
+    <None Remove="Day 04\**" />
+    <None Remove="Day 05\**" />
+    <None Remove="Day 06\**" />
+    <None Remove="Day 07\**" />
+    <None Remove="Day 08\**" />
+    <None Remove="Day 09\**" />
+    <None Remove="Day 10\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="DataClasses1.designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Day 07\07 linq to object\07 query with group by\Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MathClassLibrary\MathClassLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{3259aa49-8aa1-44d3-9025-a0b520596a8c}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Day 01\01 main function\" />
+    <Folder Include="Day 01\03 constants\" />
+    <Folder Include="Day 02\01 passing arguments to a function\01 passing and returning types\" />
+    <Folder Include="Day 02\01 passing arguments to a function\03 using in modifier\" />
+    <Folder Include="Day 02\02 variable scope\" />
+    <Folder Include="Day 02\03 optionals parameters\" />
+    <Folder Include="Day 02\04 named parameters\" />
+    <Folder Include="Day 02\07 arrays\01 single dimension value type array\" />
+    <Folder Include="Day 02\07 arrays\02 double dimension value type array\" />
+    <Folder Include="Day 02\07 arrays\07 using array class\" />
+    <Folder Include="Day 03\01 enumerations\" />
+    <Folder Include="Day 03\03 fields\02 readonly field\" />
+    <Folder Include="Day 03\03 fields\03 volatile field\" />
+    <Folder Include="Day 03\03 fields\04 static field\" />
+    <Folder Include="Day 03\03 fields\05 static readonly field\" />
+    <Folder Include="Day 03\03 fields\06 static volatile field\" />
+    <Folder Include="Day 03\05 anonymous types\" />
+    <Folder Include="Day 03\06 methods\02 static method\" />
+    <Folder Include="Day 03\06 methods\03 static non-static cross calls\" />
+    <Folder Include="Day 03\07 constructor\04 constructor calling another constructor\" />
+    <Folder Include="Day 04\practice\" />
+    <Folder Include="Day 05\01 inheritance\" />
+    <Folder Include="Day 06\06 nullable types\" />
+  </ItemGroup>
+
+</Project>

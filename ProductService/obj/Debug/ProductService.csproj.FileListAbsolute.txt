@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\dotnet-programming\ProductService\obj\Debug\ProductService.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\ProductService\obj\Debug\ProductService.csproj.CoreCompileInputs.cache

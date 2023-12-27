@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\dotnet-programming\ptatiti-dot-net\bin\Debug\ptatiti-dot-net.exe.config
+C:\Users\Admin\source\repos\dotnet-programming\ptatiti-dot-net\bin\Debug\ptatiti-dot-net.exe
+C:\Users\Admin\source\repos\dotnet-programming\ptatiti-dot-net\bin\Debug\ptatiti-dot-net.pdb
+C:\Users\Admin\source\repos\dotnet-programming\ptatiti-dot-net\obj\Debug\ptatiti-dot-net.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\dotnet-programming\ptatiti-dot-net\obj\Debug\ptatiti-dot-net.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\dotnet-programming\ptatiti-dot-net\obj\Debug\ptatiti-dot-net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dotnet-programming\ptatiti-dot-net\obj\Debug\ptatiti-dot-net.exe
+C:\Users\Admin\source\repos\dotnet-programming\ptatiti-dot-net\obj\Debug\ptatiti-dot-net.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PratitiDB" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost\sqlexpress;Initial Catalog=PratitiDB;Integrated Security=True" SettingsObjectName="ptatiti_dot_net.Properties.Settings" SettingsPropertyName="PratitiDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.PratitiEmployee2" Member="PratitiEmployee2s">
+    <Type Name="PratitiEmployee2">
+      <Column Name="PratitiEmpId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PratitiEmpName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PratitiEmpAge" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
